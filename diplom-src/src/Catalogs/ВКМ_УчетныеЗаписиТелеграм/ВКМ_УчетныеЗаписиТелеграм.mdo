@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="43d2bede-0fff-4d2a-90d8-251a63356839">
+  <producedTypes>
+    <objectType typeId="755527c3-1e47-47b5-8586-cddd91201a2c" valueTypeId="f844798a-f9e0-4149-8eaa-74437cec9859"/>
+    <refType typeId="df77abfe-9cca-402b-9a23-b82b677bcf5a" valueTypeId="0044ea24-5293-4c24-96b0-66ae2e02a26f"/>
+    <selectionType typeId="8699fa3c-9f0c-4d69-b200-22248dfcab72" valueTypeId="ab7a8283-4b05-4a65-bbf2-950911038e31"/>
+    <listType typeId="eda9315b-a294-40da-966d-e2ca30ee90aa" valueTypeId="ed5ea341-b6e7-46a3-9bc6-b0e8565cf2ef"/>
+    <managerType typeId="def0e12d-2081-4cf6-9ce9-e4dd0dc56eaa" valueTypeId="e2f24bf5-6926-4c3a-b272-6eb9486ebaa5"/>
+  </producedTypes>
+  <name>ВКМ_УчетныеЗаписиТелеграм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Учетные записи телеграм</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ВКМ_УчетныеЗаписиТелеграм.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.ВКМ_УчетныеЗаписиТелеграм.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>25</codeLength>
+  <descriptionLength>150</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

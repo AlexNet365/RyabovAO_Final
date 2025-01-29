@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f8a051f7-08ca-4834-96b1-130b9d22ccfd">
+  <name>ВКМ_Телеграм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Телеграм</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ВКМ_ВходящийHTTPЗапрос</content>
+  <content>Catalog.ВКМ_УчетныеЗаписиТелеграм</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+</mdclass:Subsystem>
